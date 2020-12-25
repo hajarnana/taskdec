@@ -1,0 +1,55 @@
+body
+    {
+        background-color: pink;
+    }
+
+h1
+    {
+        background-color: Cornsilk;
+	font-face: rockwell extra bold; 
+	font-size: 100px; 
+	color: purple;
+	border: solid;
+	border-color: #3C1874;
+	border-radius: 50px;
+    }
+h2
+    {
+	background-color: white;
+	font-face: algerian;
+	font-size: 50px; 
+	color: black;
+	text-allign: center;
+	border: solid;
+	border-color: black;
+	border-radius: 60px;
+    }
+
+p
+    {
+	background-color: lightblue;
+	font-size: 30px;	
+	text-align: center; 
+	color: purple; 
+	font-family: 'Damion', cursive;
+	padding: 15px;              
+    }
+
+
+
+a:link, a:visited
+	{
+	background-color: orange;
+	color: black;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;           
+   	}
+
+a:hover, a:active
+	{
+	background-color: lightblue;
+	color: red;          
+   	}
